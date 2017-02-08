@@ -8,7 +8,8 @@
 #	INPUT
 #	x: distance to destination in ly 
 #	v: velocity of spaceship as a fraction of c
-#	
+#
+#    John made a random change!	
 #	OUTPUT
 #	t_[reference]: time to destination in years
 #
