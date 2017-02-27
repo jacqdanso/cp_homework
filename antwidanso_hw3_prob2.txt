@@ -1,7 +1,0 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 Formula 1 calculates the second root correctly, but is off by a small factor (-1.999e-6) on the first. With formula 2, it is the converse. The important thing to note is the difference between b and the discriminant. Since their difference is small, formula 2 should be used for root 1, and formula 1 for root 2. }
