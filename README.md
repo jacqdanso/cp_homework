@@ -2,7 +2,7 @@
 HW for Computational Physics Course 
 Branch : HW2 
 
-The programs in this branch explore the use of basic operations and loops in Python. 
+The programs in this branch explore the use of basic operations and loops in Python. Their output is documented in the form of .png files. 
 
 # Problem 1 
 antwidanso_hw2_prob1.py accepts the speed of a spacecraft and outputs the times relative to observers aboard the spacecraft and those on Earth. 
