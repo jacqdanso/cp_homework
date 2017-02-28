@@ -7,7 +7,7 @@
 #	INPUT:
 #	a,b,c ---> coefficients 
 #
-#   OUTPUT:
+#   	OUTPUT:
 #	x1, x2 --> roots 
 #	
 #	Written by Jacqueline Antwi-Danso 02/17
