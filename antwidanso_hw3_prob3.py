@@ -13,7 +13,7 @@
 #	INPUT:
 #	T = temperature in K 
 #
-#   OUTPUT:
+#  	OUTPUT:
 #	cv - heat capacity of aluminium solid 
 #
 #	Written by Jacqueline Antwi-Danso 02/17
