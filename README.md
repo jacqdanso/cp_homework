@@ -16,7 +16,7 @@ antwidanso_hw4_prob2b.py uses Monte Carlo integration to calculate the integral 
 
 Output files: 
 antwidanso_hw2_prob1.pdf - Derivation of transformation function, etc. 
-antwidanso_hw2_prob1.png - plot of integral 
+antwidanso_hw2_prob1.txt.rtf - Txt file containing value of integral. 
 
 Limitations: 
 I define every function I use, which is redundant. I did this mainly for readbility. It was easier for me to spot any errors that way. 
