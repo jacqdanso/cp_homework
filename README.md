@@ -18,6 +18,7 @@ antwidanso_hw3_prob2.py accepts the coefficients of a quadratic equation and ret
 
 Output files:
 antwidanso_hw3_prob2.png - screenshot of root values 
+
 antwidanso_hw3_prob2.txt.rtf -response to question regarding reason for discrepancy
 
 #Problem 4
